@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">577479272942-0gsubofdqbcn11r17a6d8l75hhk6gm84.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">577479272942</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfdPHlA2FbR8HL8S2Yzfx5FoQ9TZLERLY</string>
+    <string name="google_app_id" translatable="false">1:577479272942:android:d07580f053699cf556c6ff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfdPHlA2FbR8HL8S2Yzfx5FoQ9TZLERLY</string>
+    <string name="google_storage_bucket" translatable="false">school-management-system-3e076.appspot.com</string>
+    <string name="project_id" translatable="false">school-management-system-3e076</string>
+</resources>
